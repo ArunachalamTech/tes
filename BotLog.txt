@@ -1,0 +1,271 @@
+[27/06/2025 07:24:49] {C:\Users\aruna\Documents\stream\Old_MrAKF2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[27/06/2025 07:25:27] {C:\Users\aruna\Documents\stream\Old_MrAKF2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[27/06/2025 07:26:02] {C:\Users\aruna\Documents\stream\Old_MrAKF2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[27/06/2025 07:26:02] {C:\Users\aruna\Documents\stream\Old_MrAKF2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:42:49] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:42:49] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:42:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:42:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:42:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:42:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:42:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:42:59] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:43:07] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:43:07] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:43:08] {C:\Users\aruna\Music\F2L-main\MrAKTech\__main__.py:109} ERROR - reuse_port not supported by socket module
+[01/07/2025 23:43:08] {C:\Users\aruna\Music\F2L-main\MrAKTech\__main__.py:113} INFO - Stopped Services
+[01/07/2025 23:44:31] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:44:31] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:44:33] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:44:33] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:44:33] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:44:34] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:44:36] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:44:44] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:44:44] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:44:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:44:51] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[01/07/2025 23:46:07] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\utilities\idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[01/07/2025 23:46:07] {C:\Users\aruna\Music\F2L-main\MrAKTech\__main__.py:122} INFO - Stopped Services
+[01/07/2025 23:46:37] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:46:37] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:46:39] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:46:40] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:46:40] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:46:42] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:46:48] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:46:48] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:46:49] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:46:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[01/07/2025 23:47:33] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py:403} ERROR - Unhandled exception: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\callback_query_handler.py", line 207, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\plugins\callback.py", line 98, in cb_handler
+    mode = await u_db.get_uploadmode(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\database\u_db.py", line 98, in get_uploadmode
+    return user.get("method", None)
+           ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[01/07/2025 23:47:34] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py:403} ERROR - Unhandled exception: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\callback_query_handler.py", line 207, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\plugins\callback.py", line 98, in cb_handler
+    mode = await u_db.get_uploadmode(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\database\u_db.py", line 98, in get_uploadmode
+    return user.get("method", None)
+           ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+[01/07/2025 23:48:35] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\utilities\idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[01/07/2025 23:48:35] {C:\Users\aruna\Music\F2L-main\MrAKTech\__main__.py:122} INFO - Stopped Services
+[01/07/2025 23:49:53] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:49:53] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:49:54] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:49:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:49:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:49:58] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:50:05] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:50:05] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:50:06] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:50:12] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[01/07/2025 23:51:24] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:51:24] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:51:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:51:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:51:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:51:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:51:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:51:27] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:51:29] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:51:36] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:51:36] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:51:37] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:51:43] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[01/07/2025 23:53:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:53:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:53:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:53:57] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:53:58] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:53:58] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:54:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:54:08] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:54:08] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:54:09] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:54:15] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[01/07/2025 23:56:03] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py:403} ERROR - Unhandled exception: type object 'tamilxd' has no attribute 'SWCMD_TXT'
+Traceback (most recent call last):
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 210, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002846441372'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\tools\utils_bot.py", line 115, in is_user_joined
+    user = await bot.get_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\chats\get_chat_member.py", line 58, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 420, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\session\session.py", line 377, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\errors\rpc_error.py", line 93, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] (caused by "channels.GetChannels") Pyrogram 2.3.58 thinks: The channel parameter is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 370, in _process_packet
+    await self._execute_callback(handler, parsed_update)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\dispatcher.py", line 407, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\handlers\message_handler.py", line 154, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\plugins\commands.py", line 592, in linkmode_toggle
+    if not await verify_user(bot, message):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\tools\utils_bot.py", line 179, in verify_user
+    if not await is_user_joined(bot, message):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aruna\Music\F2L-main\MrAKTech\tools\utils_bot.py", line 147, in is_user_joined
+    text=tamilxd.SWCMD_TXT,
+         ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'tamilxd' has no attribute 'SWCMD_TXT'
+[01/07/2025 23:58:43] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[01/07/2025 23:58:43] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[01/07/2025 23:58:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[01/07/2025 23:58:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[01/07/2025 23:58:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[01/07/2025 23:58:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[01/07/2025 23:58:45] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[01/07/2025 23:58:46] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[01/07/2025 23:58:48] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[01/07/2025 23:58:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[01/07/2025 23:58:55] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[01/07/2025 23:58:56] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[01/07/2025 23:59:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[02/07/2025 00:00:23] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[02/07/2025 00:00:23] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[02/07/2025 00:00:25] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[02/07/2025 00:00:25] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[02/07/2025 00:00:25] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[02/07/2025 00:00:25] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[02/07/2025 00:00:25] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[02/07/2025 00:00:26] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[02/07/2025 00:00:28] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[02/07/2025 00:00:35] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[02/07/2025 00:00:35] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[02/07/2025 00:00:36] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[02/07/2025 00:00:42] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[02/07/2025 00:04:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[02/07/2025 00:04:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[02/07/2025 00:04:02] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[02/07/2025 00:04:02] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[02/07/2025 00:04:02] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[02/07/2025 00:04:02] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[02/07/2025 00:04:02] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[02/07/2025 00:04:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[02/07/2025 00:04:05] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[02/07/2025 00:04:12] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[02/07/2025 00:04:12] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[02/07/2025 00:04:13] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[02/07/2025 00:04:20] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[02/07/2025 21:20:58] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:27} INFO - Initializing high-performance web server...
+[02/07/2025 21:20:58] {C:\Users\aruna\Music\F2L-main\MrAKTech\server\__init__.py:38} INFO - Added routes and performance middleware
+[02/07/2025 21:20:59] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 1 Using Bot Token
+[02/07/2025 21:21:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 2 Using Bot Token
+[02/07/2025 21:21:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 3 Using Bot Token
+[02/07/2025 21:21:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 4 Using Bot Token
+[02/07/2025 21:21:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 5 Using Bot Token
+[02/07/2025 21:21:00] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 6 Using Bot Token
+[02/07/2025 21:21:01] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 7 Using Bot Token
+[02/07/2025 21:21:01] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 8 Using Bot Token
+[02/07/2025 21:21:01] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 9 Using Bot Token
+[02/07/2025 21:21:01] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 10 Using Bot Token
+[02/07/2025 21:21:01] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:64} INFO - Starting Client - 11 Using Bot Token
+[02/07/2025 21:21:03] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:67} INFO - This will take some time, please wait...
+[02/07/2025 21:21:28] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:88} INFO - Multi-Client Mode Enabled
+[02/07/2025 21:21:28] {C:\Users\aruna\Music\F2L-main\MrAKTech\tools\performance_monitor.py:115} INFO - Performance monitoring started
+[02/07/2025 21:21:29] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:27} INFO - Restarting all bots........
+[02/07/2025 21:21:36] {C:\Users\aruna\Music\F2L-main\MrAKTech\clients.py:38} INFO - All bots restarted.
+[02/07/2025 21:21:38] {C:\Users\aruna\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\methods\utilities\idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[02/07/2025 21:21:38] {C:\Users\aruna\Music\F2L-main\MrAKTech\__main__.py:122} INFO - Stopped Services
